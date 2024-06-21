@@ -1,5 +1,6 @@
 # Telosys for Visual Studio Code (NEW!)
-
+sssssssssssssssssssssssssssssssss
+sssssssssss
 This extension provides syntax coloration, snippets and icons for Telosys.
 This is the **latest extension** supporting **Telosys ver 4**. 
 It replaces the other extension for version 3.
